@@ -7,6 +7,7 @@ public class AddToCartTest {
 	public void  AddCartTest() {
 		System.out.println("product added");
 		System.out.println("this is engineer2");
+		System.out.println("this is cart");
 		
 		
 		
