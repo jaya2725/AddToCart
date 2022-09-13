@@ -8,6 +8,13 @@ public class AddToCartTest {
 		System.out.println("product added");
 		
 		
+		
+		
+	}
+	@Test
+	public void RemoveCartTest()
+	{
+		System.out.println("remove from cart");
 	}
 
 }
